@@ -40,5 +40,10 @@ namespace ProjetoHotel
             panel_Dashboard.Height = Btn_4.Height;
             panel_Dashboard.Top = Btn_4.Top;
         }
+
+        private void Frm_Principal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

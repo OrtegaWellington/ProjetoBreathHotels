@@ -141,7 +141,7 @@ namespace ProjetoHotel
             this.Lbl_Principal.ForeColor = System.Drawing.Color.Black;
             this.Lbl_Principal.Location = new System.Drawing.Point(1, 20);
             this.Lbl_Principal.Name = "Lbl_Principal";
-            this.Lbl_Principal.Size = new System.Drawing.Size(161, 33);
+            this.Lbl_Principal.Size = new System.Drawing.Size(199, 41);
             this.Lbl_Principal.TabIndex = 3;
             this.Lbl_Principal.Text = "Breath Hotels";
             // 
@@ -178,6 +178,7 @@ namespace ProjetoHotel
             this.Name = "Frm_Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Breath Hotels";
+            this.Load += new System.EventHandler(this.Frm_Principal_Load);
             this.panel1.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
