@@ -8,24 +8,9 @@ using System.Threading.Tasks;
 namespace ProjetoHotel
 {
     class Usuario
-    {
-
-        private int id;
+    {        
         private string nomeuser;
-        private string senha;
-
-
-        public int Id
-        {
-            get
-            {
-                return this.id;
-            }
-            set
-            {
-                this.id = value;
-            }
-        }
+        private string senha;   
 
         public string Nomeuser
         {
@@ -54,7 +39,7 @@ namespace ProjetoHotel
         public bool logar()
         {
 
-            NpgsqlConnection pgsqlConnection = null; 
+            NpgsqlConnection pgsqlConnection = null;
             try
             {
                 Conexao objconexao = new Conexao();
@@ -62,9 +47,7 @@ namespace ProjetoHotel
                 pgsqlConnection = objconexao.getConexao();
                 pgsqlConnection.Open();
 
-                string sql = ""; //monta o comando SQL
-
-                sql = "SELECT * FROM login WHERE username ='" + this.nomeuser + "' and userpassword='" + this.senha + "' LIMIT 1;";
+                string sql = "SELECT * FROM login WHERE username ='" + this.nomeuser + "' and userpassword='" + this.senha + "' LIMIT 1;"; //monta o comando SQL
 
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, pgsqlConnection);
 
@@ -83,18 +66,11 @@ namespace ProjetoHotel
                     }
 
                 }
-
                 else
                 {
                     return false;
                 }
             }
-
-            catch (Exception ex)
-            {
-                return false;
-            }
-
             finally
             {
                 pgsqlConnection.Close();

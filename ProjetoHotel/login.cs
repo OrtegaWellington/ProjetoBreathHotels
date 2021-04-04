@@ -54,7 +54,7 @@ namespace ProjetoHotel
 
             Usuario objusuario = new Usuario();
 
-            objusuario.Nomeuser = txt_usuario.Text.Replace("'", "");
+            objusuario.Nomeuser = txt_usuario.Text;
             objusuario.Senha = txt_senha.Text;
 
             if (objusuario.logar())
