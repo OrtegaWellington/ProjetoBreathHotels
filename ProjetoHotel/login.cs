@@ -15,9 +15,6 @@ namespace ProjetoHotel
         public frm_login()
         {
             InitializeComponent();
-            
-          
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -53,6 +50,33 @@ namespace ProjetoHotel
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+            Usuario objusuario = new Usuario();
+
+            objusuario.Nomeuser = txt_usuario.Text.Replace("'", "");
+            objusuario.Senha = txt_senha.Text;
+
+            if (objusuario.logar())
+            {
+                this.Hide();
+                pg_1 form = new pg_1();
+                form.ShowDialog();
+                this.Close();
+            }
+
+            else
+            {                
+                MessageBox.Show("Usuário ou senha inválidos", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }         
+        }
+
+        private void txt_usuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt_senha_TextChanged(object sender, EventArgs e)
         {
 
         }
