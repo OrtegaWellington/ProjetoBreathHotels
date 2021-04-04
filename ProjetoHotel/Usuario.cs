@@ -10,7 +10,7 @@ namespace ProjetoHotel
     class Usuario
     {        
         private string nomeuser;
-        private string senha;   
+        private string senha;        
 
         public string Nomeuser
         {
@@ -34,8 +34,7 @@ namespace ProjetoHotel
             {
                 this.senha = value;
             }
-        }
-
+        }       
         public bool logar()
         {
 
@@ -47,7 +46,7 @@ namespace ProjetoHotel
                 pgsqlConnection = objconexao.getConexao();
                 pgsqlConnection.Open();
 
-                string sql = "SELECT * FROM login WHERE username ='" + this.nomeuser + "' and userpassword='" + this.senha + "' LIMIT 1;"; //monta o comando SQL
+                string sql = "SELECT * FROM login WHERE username ='" + this.nomeuser + "' and userpassword='" + this.senha + "' and ativo= 1 LIMIT 1;"; //monta o comando SQL
 
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, pgsqlConnection);
 
