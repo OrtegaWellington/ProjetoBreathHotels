@@ -1,0 +1,159 @@
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.exe.config
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.exe
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.pdb
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_andares.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_cadastroFuncionarios.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.frm_cadastroHospedes.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_cargo.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_empresa.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_fornecedores.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_quartos.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_tiposDeQuartos.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.pg_1.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.frm_login.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Properties.Resources.resources
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.GenerateResource.cache
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.exe
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.pdb
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Buffers.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Memory.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Json.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.ValueTuple.dll
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.pdb
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Buffers.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Memory.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Json.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.ValueTuple.xml
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csprojAssemblyReference.cache
+C:\Users\LuizD\Documents\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CopyComplete
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.exe
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.pdb
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.exe.config
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.exe
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\ProjetoHotel.pdb
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework6.Npgsql.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Buffers.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Memory.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\EntityFramework6.Npgsql.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.pdb
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Npgsql.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Buffers.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Memory.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csprojAssemblyReference.cache
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_andares.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_cadastroFuncionarios.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.frm_cadastroHospedes.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_cargo.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_empresa.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_fornecedores.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_quartos.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_tiposDeQuartos.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.pg_1.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.frm_login.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Properties.Resources.resources
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.GenerateResource.cache
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CoreCompileInputs.cache
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CopyComplete
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.Licensing.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\OneDrive - Yaojushi\Área de Trabalho\Estudos\Análise e Desenvolvimento de Sistemas 3\Modelagem de Projetos de Software\Sistema\ProjetoBreathHotels\ProjetoHotel\obj\Debug\ProjetoHotel.Frm_Login_A.resources
