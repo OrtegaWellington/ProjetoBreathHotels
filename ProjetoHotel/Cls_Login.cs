@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoHotel
 {
-    class Usuario
+    class Cls_Login
     {        
         private string nomeuser;
         private string senha;        
@@ -41,7 +41,7 @@ namespace ProjetoHotel
             NpgsqlConnection pgsqlConnection = null;
             try
             {
-                Conexao objconexao = new Conexao();
+                Cls_Conexao objconexao = new Cls_Conexao();
 
                 pgsqlConnection = objconexao.getConexao();
                 pgsqlConnection.Open();

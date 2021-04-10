@@ -52,7 +52,7 @@ namespace ProjetoHotel
         private void btnLogin_Click(object sender, EventArgs e)
         {
 
-            Usuario objusuario = new Usuario();
+            Cls_Login objusuario = new Cls_Login();
 
             objusuario.Nomeuser = txt_usuario.Text;
             objusuario.Senha = txt_senha.Text;
